@@ -48,3 +48,6 @@ If you're getting started and need assistance or face any bugs, join our active 
 ## <a name="features">🔋 Features</a>
 
 ## <a name="quick-start">🤸 Quick Start</a>
+
+
+## <a name="Code to Copy">#snippets</a>
